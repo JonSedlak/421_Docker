@@ -1,8 +1,7 @@
 # 421_Docker
 Docker Project for CMPSC421
-
 Jonathan Sedlak
-# Hello World
+
 # Welcome to Docker
 
 This is a repo for new users getting started with Docker.
